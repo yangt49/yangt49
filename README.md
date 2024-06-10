@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World! (About Me) 👋
+Junior @ UIUC majoring in Computer Science + minoring in Game Studies & Design! <br>
+&emsp;Current SWE intern &emsp; 🟥🟩 <br>
+&emsp;@Microsoft   &emsp; &emsp; &emsp; &thinsp; &thinsp;🟦🟨 <br>
 
 <!--
 **yangt49/yangt49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
