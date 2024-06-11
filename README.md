@@ -1,7 +1,12 @@
 ## Hello World! (About Me) 👋
-Junior @ UIUC majoring in Computer Science + minoring in Game Studies & Design! <br>
+<br>
+Junior @ UIUC majoring in Computer Science + minoring in Game Studies & Design! <br> <br>
+
 &emsp;Current SWE intern &emsp; 🟥🟩 <br>
 &emsp;@Microsoft   &emsp; &emsp; &emsp; &thinsp; &thinsp;🟦🟨 <br>
+<br>
+Prev SWE intern @ Brunswick Corporation 🛥️ <br>
+Prev SWE intern @ UNH InterOperability Laboratory 🛜
 
 <!--
 **yangt49/yangt49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
