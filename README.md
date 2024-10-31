@@ -2,7 +2,7 @@
 <br>
 Junior @UIUC majoring in Computer Science + minoring in Game Studies & Design! <br> <br>
 
-&emsp;Current SWE intern &emsp; 🟥🟩 <br>
+&emsp;Prev SWE intern ~~&emsp; 🟥🟩 <br>
 &emsp;@Microsoft   &emsp; &emsp; &emsp; &thinsp; &thinsp;🟦🟨 <br>
 <br>
 Prev SWE intern @Brunswick Corporation 🛥️ <br>
