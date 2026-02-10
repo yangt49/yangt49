@@ -1,6 +1,6 @@
 ## Hello World! (About Me) 👋
 <br>
-Senior @UIUC majoring in Computer Sciene <br> <br>
+Senior @UIUC majoring in Computer Science <br> <br>
 
 Prev SWE Intern @Point72 📈<br>
 <br>
