@@ -1,7 +1,9 @@
 ## Hello World! (About Me) 👋
 <br>
-Junior @UIUC majoring in Computer Science + minoring in Game Studies & Design! <br> <br>
+Senior @UIUC majoring in Computer Science + minoring in Game Studies & Design! <br> <br>
 
+Prev SWE Intern @Point72 📈<br>
+<br>
 &emsp;Prev SWE intern ~~&emsp; 🟥🟩 <br>
 &emsp;@Microsoft   &emsp; &emsp; &emsp; &thinsp; &thinsp;🟦🟨 <br>
 <br>
